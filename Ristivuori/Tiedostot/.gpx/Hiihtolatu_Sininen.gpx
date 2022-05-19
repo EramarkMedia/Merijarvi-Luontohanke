@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Viking -- http://viking.sf.net/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<trk>
+  <name>Ristivuoren ulkoilualue</name>
+  <desc>name=Ristivuoren ulkoilualue
+city=Merij&#xe4;rvi</desc>
+  <trkseg>
+  <trkpt lat="64.346848386728198" lon="24.390022530427306">
+  </trkpt>
+  <trkpt lat="64.34657606744878" lon="24.390462645161278">
+  </trkpt>
+  <trkpt lat="64.3462860666164" lon="24.390514988779358">
+  </trkpt>
+  <trkpt lat="64.346233901029322" lon="24.390611077564412">
+  </trkpt>
+  <trkpt lat="64.346242296767898" lon="24.39108257928681">
+  </trkpt>
+  <trkpt lat="64.346335561791818" lon="24.392084626100058">
+  </trkpt>
+  <trkpt lat="64.34661163783602" lon="24.393268234504013">
+  </trkpt>
+  <trkpt lat="64.346875318157075" lon="24.395977679395081">
+  </trkpt>
+  <trkpt lat="64.347004377372045" lon="24.396570359980707">
+  </trkpt>
+  <trkpt lat="64.347047611103235" lon="24.397386598208385">
+  </trkpt>
+  <trkpt lat="64.347269600068643" lon="24.397953933916771">
+  </trkpt>
+  <trkpt lat="64.347533708933724" lon="24.398061552525469">
+  </trkpt>
+  <trkpt lat="64.347963676581344" lon="24.397598311371947">
+  </trkpt>
+  <trkpt lat="64.348201747465467" lon="24.396846597324355">
+  </trkpt>
+  <trkpt lat="64.348217588282992" lon="24.39632305080011">
+  </trkpt>
+  <trkpt lat="64.348156893453151" lon="24.395939327144852">
+  </trkpt>
+  <trkpt lat="64.348029628825557" lon="24.395851927658875">
+  </trkpt>
+  <trkpt lat="64.347696596968149" lon="24.395908286317137">
+  </trkpt>
+  <trkpt lat="64.347589964760544" lon="24.395769219776685">
+  </trkpt>
+  <trkpt lat="64.347525795771659" lon="24.394988092876375">
+  </trkpt>
+  <trkpt lat="64.347490400225396" lon="24.394411402860396">
+  </trkpt>
+  <trkpt lat="64.347579968762389" lon="24.393590867642054">
+  </trkpt>
+  <trkpt lat="64.347609658930651" lon="24.392635130679938">
+  </trkpt>
+  <trkpt lat="64.347560153220016" lon="24.392275222250774">
+  </trkpt>
+  <trkpt lat="64.347353264669721" lon="24.392153951460021">
+  </trkpt>
+  <trkpt lat="64.347203400566855" lon="24.39220957755899">
+  </trkpt>
+  <trkpt lat="64.347008741185149" lon="24.392170012418497">
+  </trkpt>
+  <trkpt lat="64.346941305834065" lon="24.391811810439918">
+  </trkpt>
+  <trkpt lat="64.346959881988866" lon="24.391039440700382">
+  </trkpt>
+  <trkpt lat="64.34706229821208" lon="24.390739720186772">
+  </trkpt>
+  <trkpt lat="64.346769843097107" lon="24.390452565661825">
+  </trkpt>
+  <trkpt lat="64.346705792472434" lon="24.390284629347686">
+  </trkpt>
+  <trkpt lat="64.346911906188907" lon="24.389940532376052">
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

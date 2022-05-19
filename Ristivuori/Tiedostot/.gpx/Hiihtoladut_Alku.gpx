@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Viking -- http://viking.sf.net/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<trk>
+  <name>Ristivuoren ulkoilualue</name>
+  <desc>name=Ristivuoren ulkoilualue
+city=Merij&#xe4;rvi</desc>
+  <trkseg>
+  <trkpt lat="64.3474704311827" lon="24.386559906460008">
+  </trkpt>
+  <trkpt lat="64.347494359749106" lon="24.387036975452506">
+  </trkpt>
+  <trkpt lat="64.347519392501795" lon="24.387574927026602">
+  </trkpt>
+  <trkpt lat="64.347492378647004" lon="24.387931952433707">
+  </trkpt>
+  <trkpt lat="64.347386376826705" lon="24.388825839352393">
+  </trkpt>
+  <trkpt lat="64.347411425104596" lon="24.389304003895202">
+  </trkpt>
+  <trkpt lat="64.347332398565499" lon="24.389660858965499">
+  </trkpt>
+  <trkpt lat="64.347202390879403" lon="24.389896968200393">
+  </trkpt>
+  <trkpt lat="64.34688650341981" lon="24.389944341998607">
+  </trkpt>
+  <trkpt lat="64.346608399669108" lon="24.389769955896984">
+  </trkpt>
+  <trkpt lat="64.346375425578387" lon="24.389885848027792">
+  </trkpt>
+  <trkpt lat="64.345987412720504" lon="24.389820991068603">
+  </trkpt>
+  <trkpt lat="64.345676417875595" lon="24.389815953122287">
+  </trkpt>
+  <trkpt lat="64.345350081948794" lon="24.390088741768615">
+  </trkpt>
+  <trkpt lat="64.345247373330594" lon="24.390390984011695">
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
